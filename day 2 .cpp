@@ -1,3 +1,5 @@
+//BAVNEET KAUR - 22BCS14121
+
 // 1) Majority Elements
 #include <iostream>
 #include <vector>
